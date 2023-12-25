@@ -1,0 +1,39 @@
+17:12:17.028 [main]FATAL testing.testlog - This is a fatal log
+17:12:17.031 [main]ERROR testing.testlog - this is error log
+17:12:17.031 [main]WARN  testing.testlog - this is warn log
+17:12:17.031 [main]INFO  testing.testlog - this is info log
+17:13:57.017 [main]FATAL testing.testlog - This is a fatal log
+17:13:57.021 [main]ERROR testing.testlog - this is error log
+17:13:57.021 [main]WARN  testing.testlog - this is warn log
+17:13:57.021 [main]INFO  testing.testlog - this is info log
+17:14:06.868 [main]FATAL testing.testlog - This is a fatal log
+17:14:06.872 [main]ERROR testing.testlog - this is error log
+17:14:14.897 [main]FATAL testing.testlog - This is a fatal log
+17:14:23.252 [main]FATAL testing.testlog - This is a fatal log
+17:14:23.256 [main]ERROR testing.testlog - this is error log
+17:14:23.256 [main]WARN  testing.testlog - this is warn log
+17:14:23.256 [main]INFO  testing.testlog - this is info log
+17:14:23.257 [main]DEBUG testing.testlog - this is info log
+17:14:38.570 [main]FATAL testing.testlog - This is a fatal log
+17:14:38.573 [main]ERROR testing.testlog - this is error log
+17:14:38.574 [main]WARN  testing.testlog - this is warn log
+17:15:07.784 [main]FATAL testing.testlog - This is a fatal log
+17:15:07.787 [main]ERROR testing.testlog - this is error log
+17:15:07.787 [main]WARN  testing.testlog - this is warn log
+17:15:07.788 [main]INFO  testing.testlog - this is info log
+17:43:54.815 [main]FATAL testing.testlog - This is a fatal log
+17:43:54.819 [main]ERROR testing.testlog - this is error log
+17:43:54.819 [main]WARN  testing.testlog - this is warn log
+17:43:54.819 [main]INFO  testing.testlog - this is info finally logged
+17:48:36.257 [main]FATAL testing.testlog - This is a fatal log
+17:48:36.261 [main]ERROR testing.testlog - this is error log
+17:48:36.261 [main]WARN  testing.testlog - this is warn log
+17:48:36.262 [main]INFO  testing.testlog - this is info finally logged
+17:49:23.488 [main]FATAL testing.testlog - This is a fatal log
+17:49:23.491 [main]ERROR testing.testlog - this is error log
+17:49:23.491 [main]WARN  testing.testlog - this is warn log
+17:49:23.492 [main]INFO  testing.testlog - this is info finally logged
+17:49:37.583 [main]FATAL testing.testlog - This is a fatal log
+17:49:37.586 [main]ERROR testing.testlog - this is error log
+17:49:37.586 [main]WARN  testing.testlog - this is warn log
+17:49:37.587 [main]INFO  testing.testlog - this is info finally gulshana
