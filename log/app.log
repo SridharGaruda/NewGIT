@@ -37,3 +37,16 @@
 17:49:37.586 [main]ERROR testing.testlog - this is error log
 17:49:37.586 [main]WARN  testing.testlog - this is warn log
 17:49:37.587 [main]INFO  testing.testlog - this is info finally gulshana
+18:01:31.359 [main]FATAL testing.testlog - This is a fatal log
+18:04:45.365 [main]FATAL testing.testlog - This is a fatal log get logged in app log
+18:04:45.372 [main]ERROR testing.testlog - this is error log
+18:04:45.372 [main]WARN  testing.testlog - this is warn log
+18:04:45.373 [main]INFO  testing.testlog - this is info finally gulshana
+18:04:45.373 [main]DEBUG testing.testlog - this is info log
+18:04:45.374 [main]TRACE testing.testlog - this is info log
+18:20:36.009 [main]FATAL testing.testlog - This is a fatal log get logged in app log
+18:20:36.012 [main]ERROR testing.testlog - this is error log
+18:20:36.013 [main]WARN  testing.testlog - this is warn log
+18:20:36.013 [main]INFO  testing.testlog - this is info finally gulshana
+18:20:36.013 [main]DEBUG testing.testlog - this is info log
+18:20:36.014 [main]TRACE testing.testlog - this is info log
